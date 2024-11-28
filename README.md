@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @C-Roch
-- 👀 I’m interested in Computational Linguistics and Natural Language Processing
-- 🌱 I’m currently learning to train neural networks
-- 💞️ I’m looking to collaborate on Jupyter Notebooks with colleagues and students
-- 📫 How to reach me: claudia.roch@ruhr-uni-bochum.de, Linguistic Data Science Lab - Ruhr University Bochum
+- 👋 Hi, I’m @C-Roch, former [Postdoc at Linguistic Data Science Lab](https://ldsl.rub.de/members/claudia-roch).
+- 👀 I’m interested in Computational Linguistics, Natural Language Processing, Social Web Data Mining, GenAI, and more.
+- 🌱 I'm enthusiastic to learn and work into new interdisciplinary fields to connect my knowledge. 
+- 💞️ I’m looking forward to collaborate with colleagues and students.
+- 📫 How to reach me: claudia.roch@ruhr-uni-bochum.de
 
 <!---
 C-Roch/C-Roch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
